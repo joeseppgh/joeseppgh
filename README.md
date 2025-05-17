@@ -1,6 +1,6 @@
 # README.md
 
-I'm Mark, on the interwebs known as Joesepp, a (partly) self-taught, bored individual who likes to watch computers do things, who's equal parts excited and confused.
+I'm Mark, on the interwebs known as Joesepp, a (partly) self-taught, bored individual who likes to watch computers do things, who's equally both excited and confused. I thought that building software was like LEGOs :(
 
 ## What I'm Learning
 - **Data Science -** we used to do this stuff on paper
